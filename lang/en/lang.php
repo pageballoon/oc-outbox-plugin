@@ -1,7 +1,7 @@
 <?php return [
     'plugin' => [
         'name' => 'Outbox',
-        'description' => 'Use mail templates to send branded emails',
+        'description' => ' Quickly compose and send emails from the backend ',
     ],
     'composer' => [
         'send' => 'Send',
