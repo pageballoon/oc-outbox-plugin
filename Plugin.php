@@ -13,8 +13,8 @@ class Plugin extends PluginBase
     public function componentDetails()
     {
         return [
-            'name'        => 'nocio.passwordless::lang.plugin.name',
-            'description' => 'nocio.passwordless::lang.plugin.description',
+            'name'        => 'nocio.outbox::lang.plugin.name',
+            'description' => 'nocio.outbox::lang.plugin.description',
             'icon'        => 'oc-icon-envelope-o',
             'homepage'    => 'https://github.com/nocio/oc-outbox-plugin'
         ];
