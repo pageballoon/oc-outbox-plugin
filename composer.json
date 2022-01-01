@@ -1,0 +1,8 @@
+{
+    "name": "nocio/outbox-plugin",
+    "type": "october-plugin",
+    "description": "Quickly compose and send emails from the backend",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
